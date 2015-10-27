@@ -60,7 +60,7 @@ $mysql_password = "mghE3Dios7nF";
 $mysql_database = "sportflow_promo";
 
 // Name of MySQL table where email information will be stored
-$mysql_table = "tablename";
+$mysql_table = "signups";
 
 
 // Email Notification Settings
