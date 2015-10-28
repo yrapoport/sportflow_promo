@@ -41,7 +41,7 @@ $saveToMySQL = 'true';
 $sendToEmail = 'true';
 	
 // To subscribe the given email address to your MailChimp list, set the following variable to 'true' and update your MailChimp settings belowl
-$mailChimpList = 'true';
+$mailChimpList = 'false';
 
 
 // MySQL Connection Settings
@@ -100,6 +100,6 @@ $insertfailure_errormsg = "Извините, произошла внутренн
 $emailexists_errormsg = "Спасибо, Ваш email уже зарегистрирован ранее";
 
 // Success message once email address is successfully stored in database
-$subscriptionsuccess_msg = "Спасибо, что подписались на оповещения. Мы будем информировать Вас не чаще 1 раза в неделю.";
+$subscriptionsuccess_msg = "Спасибо, что подписались. Мы будем информировать Вас не чаще 1 раза в неделю.";
 
 ?>
